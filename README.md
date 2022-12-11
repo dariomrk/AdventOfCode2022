@@ -1,0 +1,1 @@
+# 2022 Advent of Code :santa::gift:
